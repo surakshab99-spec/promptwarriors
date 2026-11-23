@@ -1,0 +1,6 @@
+{
+  "name": "easeLabs",
+  "description": "ONE CAMPUS. INFINITE POSSIBILITIES. Intelligent AI-powered campus resource sharing and laboratory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
